@@ -1,0 +1,1 @@
+import{_}from"./AxHeader-CKP6WWHv.js";import{_ as c,c as a,a as n,w as s,L as r,o as p,G as i}from"./index-B6vKab5y.js";import"./nav-Wi7YOkNt.js";const l={};function m(u,d){const t=_,o=i,e=r;return p(),a("div",null,[n(t,{title:"全知实验室"}),n(e,null,{default:s(()=>[n(o,{description:"正在开发中"})]),_:1})])}const g=c(l,[["render",m]]);export{g as default};
