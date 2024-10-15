@@ -1,1 +1,0 @@
-import{_}from"./AxHeader-DDTdWPKP.js";import{_ as c,c as a,a as n,w as s,L as r,o as p,G as i}from"./index-DSmoGsop.js";import"./nav-CXDAEP95.js";const l={};function m(u,d){const t=_,o=i,e=r;return p(),a("div",null,[n(t,{title:"全知实验室"}),n(e,null,{default:s(()=>[n(o,{description:"正在开发中"})]),_:1})])}const g=c(l,[["render",m]]);export{g as default};
